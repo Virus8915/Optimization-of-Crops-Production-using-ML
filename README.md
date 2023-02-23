@@ -1,4 +1,4 @@
-# Optimization-of-Crops-Production-using-ML
+# Optimization of Crops Production using Machine Learning
 
 Agriculture is extremely vulnerable to climate change. Higher temperatures eventually reduce yields of desirable crops
 while encouraging weed and pest proliferation. Climate change can disrupt food availability, reduce access to food,
@@ -17,6 +17,6 @@ Potassium, Temperature, Relative Humidity, PH Value and Rainfall present in give
 
 ![Recording 2023-02-23 at 22 29 40](https://user-images.githubusercontent.com/117761581/220979011-e6eadf11-6545-4acd-97ae-9ca68b8a103b.gif)
 
-**Additional DEtails for better results in agriculture**
+**Additional Details for better results in agriculture**
 
 ![Recording 2023-02-23 at 22 32 55](https://user-images.githubusercontent.com/117761581/220979330-de5dde16-ba7f-4a5a-9b65-8c71973f5a04.gif)
